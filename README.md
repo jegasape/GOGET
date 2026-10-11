@@ -1,7 +1,5 @@
 # goget-wallpaper
-> Wallpaper
-
-✋️🧐🤚
+>  Wallpapers ✋️🧐🤚
 
 ```bash
 go run main.go
